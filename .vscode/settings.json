@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#16171c7a",
+        "tab.activeBorderTop": "#FF404E",
+        "statusBar.background": "#00000000",
+        "terminal.background": "#00000000",
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    }
+}
